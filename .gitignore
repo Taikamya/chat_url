@@ -8,6 +8,10 @@
 .pub-cache/
 .pub/
 build/
+windows/
+linux/
+ios/
+
 # If you're building an application, you may want to check-in your pubspec.lock
 pubspec.lock
 
